@@ -1,1 +1,1 @@
-web: bin/hubot -a partychat-hooks
+web: bin/hubot -a partychat-hooks -n skynet
